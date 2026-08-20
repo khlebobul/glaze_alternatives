@@ -8,6 +8,10 @@ Glaze keeps small, useful tools inside one local-first desktop platform. This pr
 
 See also: [Raycast Alternatives](https://khlebobul.github.io/raycast_alternatives/).
 
+## Preview
+
+![Glaze Alternatives website](docs/images/site-preview.png)
+
 ## Add a product
 
 Products are standalone applications people may want to replace. Add an object to `data/apps.json`:

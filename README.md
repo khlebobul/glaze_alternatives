@@ -1,8 +1,13 @@
 # Glaze Alternatives
 
-An open directory of [Glaze Store](https://www.glaze.app/store) apps that replace standalone and paid Mac apps.
+[![Deploy](https://github.com/khlebobul/glaze_alternatives/actions/workflows/deploy.yml/badge.svg)](https://github.com/khlebobul/glaze_alternatives/actions/workflows/deploy.yml)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
+
+Community-maintained directory of [Glaze Store](https://www.glaze.app/store) alternatives to standalone and paid Mac apps. Search by product or category, compare alternatives, and open matching apps directly in the Glaze Store.
 
 Glaze keeps small, useful tools inside one local-first desktop platform. This project makes those replacements easy to discover. The catalog is community-maintained through pull requests.
+
+**[Browse the directory](https://khlebobul.github.io/glaze_alternatives/)**
 
 See also: [Raycast Alternatives](https://khlebobul.github.io/raycast_alternatives/).
 
